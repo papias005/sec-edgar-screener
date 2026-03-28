@@ -1,0 +1,6 @@
+cache/
+*.csv
+*.json
+__pycache__/
+*.py[cod]
+.env
